@@ -1,5 +1,5 @@
-import { Hono } from "https://deno.land/x/hono@v3.11.8/mod.ts";
-import { serveStatic } from "https://deno.land/x/hono/middleware.ts";
+import { Hono } from "https://deno.land/x/hono@v3.11.9/mod.ts";
+import { serveStatic } from "https://deno.land/x/hono@v3.11.9/middleware.ts";
 
 const app = new Hono();
 
